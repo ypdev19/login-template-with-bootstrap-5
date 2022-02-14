@@ -5,7 +5,7 @@ Some information about this template
 --------------------------------
 - [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - Verified by W3C (HTML and CSS)
-- Responsive ([mobile-friendly test])
+- Responsive ([mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=66ZJoKcwTa5R-J67dkErRQ&url=https%3A%2F%2Fypetrilli.github.io%2Flogin-template-with-bootstrap-5%2F))
 - Easy to use
 - Nice and simple design
 
@@ -15,11 +15,15 @@ You just need to download this template, or clone this repo and that's it! Ready
 
 Demo
 --------------------------------
-[See Demo]()
+[See Demo](https://ypetrilli.github.io/login-template-with-bootstrap-5/)
 
 Bug Report :bug:
 --------------------------------
 If you found a bug please create an issue [here](https://github.com/ypetrilli/contact-template-with-bootstrap-5/issues) and let's fix it to make this a better template
+
+Looking for more? Here are other free resources for you!
+--------------------------------
+- [Contact form with Bootstrap 5](https://ypetrilli.github.io/contact-template-with-bootstrap-5/)
 
 Credits
 --------------------------------
