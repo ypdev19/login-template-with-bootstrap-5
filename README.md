@@ -19,7 +19,7 @@ Demo
 
 Bug Report :bug:
 --------------------------------
-If you found a bug please create an issue [here](https://github.com/ypetrilli/contact-template-with-bootstrap-5/issues) and let's fix it to make this a better template
+If you found a bug please create an issue [here](https://github.com/ypetrilli/login-template-with-bootstrap-5/issues) and let's fix it to make this a better template
 
 Looking for more? Here are other free resources for you!
 --------------------------------
