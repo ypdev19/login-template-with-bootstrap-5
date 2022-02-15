@@ -11,7 +11,7 @@ Some information about this template
 
 Installation
 --------------------------------
-You just need to download this template, or clone this repo and that's it! Ready to use as you wish!
+You just need to download or clone this repo and that's it! Ready to use as you wish!
 
 Demo
 --------------------------------
