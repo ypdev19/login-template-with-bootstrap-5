@@ -25,6 +25,7 @@ Looking for more? Here are other free resources for you!
 --------------------------------
 - [Contact form with Bootstrap 5](https://ypetrilli.github.io/contact-template-with-bootstrap-5/)
 - [Registration form with Bootstrap 5](https://ypetrilli.github.io/registration-form-with-bootstrap-5/)
+- [Reset password and recover username forms with Bootstrap 5](https://ypetrilli.github.io/reset-password-template-with-bootstrap-5/)
 
 Credits
 --------------------------------
