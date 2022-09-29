@@ -38,6 +38,3 @@ Credits
 Licence
 --------------------------------
 [MTI Licence](http://opensource.org/licenses/MIT)
-
---------------------------------
-Thank you for your support :slightly_smiling_face:
