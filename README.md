@@ -3,7 +3,7 @@ A free login form template made with [Bootstrap](https://getbootstrap.com/) to u
 
 Some information about this template
 --------------------------------
-- [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - Verified by W3C (HTML and CSS)
 - Responsive ([mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=66ZJoKcwTa5R-J67dkErRQ&url=https%3A%2F%2Fypetrilli.github.io%2Flogin-template-with-bootstrap-5%2F))
 - Easy to use
@@ -15,17 +15,17 @@ You just need to download or clone this repo and that's it! Ready to use as you 
 
 Demo
 --------------------------------
-[See Demo](https://ypetrilli.github.io/login-template-with-bootstrap-5/)
+[See Demo](https://ypdev19.github.io/login-template-with-bootstrap-5/)
 
 Bug Report :bug:
 --------------------------------
-If you found a bug please create an issue [here](https://github.com/ypetrilli/login-template-with-bootstrap-5/issues) and let's fix it to make this a better template
+If you found a bug please create an issue [here](https://github.com/ypdev19/login-template-with-bootstrap-5/issues) and let's fix it to make this a better template
 
 Looking for more? Here are other free resources for you!
 --------------------------------
-- [Contact form with Bootstrap 5](https://ypetrilli.github.io/contact-template-with-bootstrap-5/)
-- [Registration form with Bootstrap 5](https://ypetrilli.github.io/registration-form-with-bootstrap-5/)
-- [Reset password and recover username forms with Bootstrap 5](https://ypetrilli.github.io/reset-password-template-with-bootstrap-5/)
+- [Contact form with Bootstrap 5](https://ypdev19.github.io/contact-template-with-bootstrap-5/)
+- [Registration form with Bootstrap 5](https://ypdev19.github.io/registration-form-with-bootstrap-5/)
+- [Reset password and recover username forms with Bootstrap 5](https://ypdev19.github.io/reset-password-template-with-bootstrap-5/)
 
 Credits
 --------------------------------
