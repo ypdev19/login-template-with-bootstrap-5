@@ -63,6 +63,7 @@ a:hover {
 
 .form-wrapper {
 	width: 500px;
+	max-width: 100%;
 	background: #fff;
 	border-radius: 10px;
 	overflow: hidden;
@@ -329,6 +330,31 @@ button:hover {
 	width: 100%;
 }
 
+/* ============> Password toggle icon */
+
+.input-wrapper {
+	position: relative;
+}
+
+.password-toggle-icon {
+	position: absolute;
+	right: 5px;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	color: #999999;
+	font-size: 15px;
+	line-height: 1;
+	cursor: pointer;
+}
+
+.password-toggle-icon:hover {
+	color: #4C2CB8;
+}
+
 /* ============> Responsive */
 
 @media (max-width: 576px) {
@@ -340,14 +366,5 @@ button:hover {
 @media (max-width: 480px) {
 	.form-content {
 		padding: 43px 15px 57px 15px;
-	}
-
-	.label-input-style {
-		text-align: left;
-		position: unset;
-		top: unset;
-		left: unset;
-		width: 100%;
-		padding: 0 5px;
 	}
 }
